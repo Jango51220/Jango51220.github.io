@@ -1,7 +1,0 @@
-RUN	AprilInternationalSimulation		aprilinternationalsimulation	1519051130389	 	2.0
-USER	Scénario de test	1	START	1519051130988	1519051130988
-REQUEST	Scénario de test	1		/fr/mon-compte	1519051131037	1519051131245	OK	 
-REQUEST	Scénario de test	1		/fr/mon-compte Redirect 1	1519051131268	1519051133032	OK	 
-REQUEST	Scénario de test	1		/fr/partenaires-connectez-vous-aux-extranets-de-nos-bureaux	1519051136053	1519051137756	OK	 
-REQUEST	Scénario de test	1		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519051142753	1519051144222	OK	 
-USER	Scénario de test	1	END	1519051130988	1519051154237
