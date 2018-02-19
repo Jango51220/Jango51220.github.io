@@ -1,0 +1,7 @@
+RUN	AprilInternationalSimulation		aprilinternationalsimulation	1519050310407	 	2.0
+USER	Scénario de test	1	START	1519050311026	1519050311026
+REQUEST	Scénario de test	1		/fr/vivre-l-etranger/assurance-sante-internationale	1519050311071	1519050311515	OK	 
+REQUEST	Scénario de test	1		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519050311563	1519050311748	OK	 
+REQUEST	Scénario de test	1		/fr/mon-compte	1519050311767	1519050311801	OK	 
+REQUEST	Scénario de test	1		/fr/mon-compte Redirect 1	1519050311805	1519050311929	OK	 
+USER	Scénario de test	1	END	1519050311026	1519050311936

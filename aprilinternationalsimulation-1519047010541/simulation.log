@@ -1,0 +1,150 @@
+RUN	AprilInternationalSimulation		aprilinternationalsimulation	1519047010541	 	2.0
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047011292
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047011302
+USER	Scénario de test	1	START	1519047011281	1519047011281
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047011429
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047011429
+USER	Scénario de test	2	START	1519047011429	1519047011429
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047011529
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047011530
+USER	Scénario de test	3	START	1519047011529	1519047011529
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047011630
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047011631
+USER	Scénario de test	4	START	1519047011630	1519047011630
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047011729
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047011730
+USER	Scénario de test	5	START	1519047011729	1519047011729
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047011829
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047011837
+USER	Scénario de test	6	START	1519047011829	1519047011829
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047011930
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047011931
+USER	Scénario de test	7	START	1519047011930	1519047011930
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047012030
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047012031
+USER	Scénario de test	8	START	1519047012029	1519047012029
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047012130
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047012131
+USER	Scénario de test	9	START	1519047012129	1519047012129
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047012229
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047012230
+USER	Scénario de test	10	START	1519047012229	1519047012229
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047012329
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047012331
+USER	Scénario de test	11	START	1519047012329	1519047012329
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047012429
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047012430
+USER	Scénario de test	12	START	1519047012429	1519047012429
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047012529
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047012531
+USER	Scénario de test	13	START	1519047012529	1519047012529
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047012630
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047012631
+USER	Scénario de test	14	START	1519047012630	1519047012630
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047012729
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047012731
+USER	Scénario de test	15	START	1519047012729	1519047012729
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047012829
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047012831
+USER	Scénario de test	16	START	1519047012829	1519047012829
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047012930
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047012931
+USER	Scénario de test	17	START	1519047012929	1519047012929
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047013030
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047013031
+USER	Scénario de test	18	START	1519047013030	1519047013030
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047013129
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047013130
+USER	Scénario de test	19	START	1519047013129	1519047013129
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047013230
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047013230
+USER	Scénario de test	20	START	1519047013229	1519047013229
+GROUP	Failed to build request Request 3: No protocol.baseUrl defined but provided url is relative : /fr/espace-clients 	1519047013320
+USER	Scénario de test	1	END	1519047011281	1519047013326
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047013330
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047013331
+USER	Scénario de test	21	START	1519047013330	1519047013330
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047013399
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047013401
+USER	Scénario de test	22	START	1519047013399	1519047013399
+GROUP	Failed to build request Request 3: No protocol.baseUrl defined but provided url is relative : /fr/espace-clients 	1519047013449
+USER	Scénario de test	2	END	1519047011429	1519047013450
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047013500
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047013501
+USER	Scénario de test	23	START	1519047013499	1519047013499
+GROUP	Failed to build request Request 3: No protocol.baseUrl defined but provided url is relative : /fr/espace-clients 	1519047013550
+USER	Scénario de test	3	END	1519047011529	1519047013550
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047013600
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047013601
+USER	Scénario de test	24	START	1519047013599	1519047013599
+GROUP	Failed to build request Request 3: No protocol.baseUrl defined but provided url is relative : /fr/espace-clients 	1519047013649
+USER	Scénario de test	4	END	1519047011630	1519047013650
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047013699
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047013699
+USER	Scénario de test	25	START	1519047013699	1519047013699
+GROUP	Failed to build request Request 3: No protocol.baseUrl defined but provided url is relative : /fr/espace-clients 	1519047013749
+USER	Scénario de test	5	END	1519047011729	1519047013750
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047013799
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047013800
+USER	Scénario de test	26	START	1519047013799	1519047013799
+GROUP	Failed to build request Request 3: No protocol.baseUrl defined but provided url is relative : /fr/espace-clients 	1519047013849
+USER	Scénario de test	6	END	1519047011829	1519047013850
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047013899
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047013900
+USER	Scénario de test	27	START	1519047013899	1519047013899
+GROUP	Failed to build request Request 3: No protocol.baseUrl defined but provided url is relative : /fr/espace-clients 	1519047013949
+USER	Scénario de test	7	END	1519047011930	1519047013950
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047013999
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047014000
+USER	Scénario de test	28	START	1519047013999	1519047013999
+GROUP	Failed to build request Request 3: No protocol.baseUrl defined but provided url is relative : /fr/espace-clients 	1519047014050
+USER	Scénario de test	8	END	1519047012029	1519047014051
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047014100
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047014101
+USER	Scénario de test	29	START	1519047014099	1519047014099
+GROUP	Failed to build request Request 3: No protocol.baseUrl defined but provided url is relative : /fr/espace-clients 	1519047014150
+USER	Scénario de test	9	END	1519047012129	1519047014151
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047014199
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047014200
+USER	Scénario de test	30	START	1519047014199	1519047014199
+GROUP	Failed to build request Request 3: No protocol.baseUrl defined but provided url is relative : /fr/espace-clients 	1519047014250
+USER	Scénario de test	10	END	1519047012229	1519047014251
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047014300
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047014301
+USER	Scénario de test	31	START	1519047014299	1519047014299
+GROUP	Failed to build request Request 3: No protocol.baseUrl defined but provided url is relative : /fr/espace-clients 	1519047014350
+USER	Scénario de test	11	END	1519047012329	1519047014351
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047014400
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047014401
+USER	Scénario de test	32	START	1519047014399	1519047014399
+GROUP	Failed to build request Request 3: No protocol.baseUrl defined but provided url is relative : /fr/espace-clients 	1519047014449
+USER	Scénario de test	12	END	1519047012429	1519047014450
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047014500
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047014501
+USER	Scénario de test	33	START	1519047014499	1519047014499
+GROUP	Failed to build request Request 3: No protocol.baseUrl defined but provided url is relative : /fr/espace-clients 	1519047014550
+USER	Scénario de test	13	END	1519047012529	1519047014550
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047014599
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047014600
+USER	Scénario de test	34	START	1519047014599	1519047014599
+GROUP	Failed to build request Request 3: No protocol.baseUrl defined but provided url is relative : /fr/espace-clients 	1519047014649
+USER	Scénario de test	14	END	1519047012630	1519047014650
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047014699
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047014700
+USER	Scénario de test	35	START	1519047014699	1519047014699
+GROUP	Failed to build request Request 3: No protocol.baseUrl defined but provided url is relative : /fr/espace-clients 	1519047014750
+USER	Scénario de test	15	END	1519047012729	1519047014751
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047014800
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047014801
+USER	Scénario de test	36	START	1519047014799	1519047014799
+GROUP	Failed to build request Request 3: No protocol.baseUrl defined but provided url is relative : /fr/espace-clients 	1519047014850
+USER	Scénario de test	16	END	1519047012829	1519047014851
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047014900
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047014901
+USER	Scénario de test	37	START	1519047014899	1519047014899
+GROUP	Failed to build request Request 3: No protocol.baseUrl defined but provided url is relative : /fr/espace-clients 	1519047014950
+USER	Scénario de test	17	END	1519047012929	1519047014950
+GROUP	Failed to build request Request 1: No protocol.baseUrl defined but provided url is relative : /fr 	1519047015000
+GROUP	Failed to build request Request 2: No protocol.baseUrl defined but provided url is relative : /fr/etudier-l-etranger/assurance-etudes-l-etranger 	1519047015001
+USER	Scénario de test	38	START	1519047014999	1519047014999
+GROUP	Failed to build request Request 3: No protocol.baseUrl defined but provided url is relative : /fr/espace-clients 	1519047015050

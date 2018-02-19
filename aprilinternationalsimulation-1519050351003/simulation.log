@@ -1,0 +1,4 @@
+RUN	AprilInternationalSimulation		aprilinternationalsimulation	1519050351003	 	2.0
+USER	Scénario de test	1	START	1519050351635	1519050351635
+REQUEST	Scénario de test	1		/fr/partenaires-connectez-vous-aux-extranets-de-nos-bureaux	1519050351691	1519050352013	OK	 
+USER	Scénario de test	1	END	1519050351635	1519050352127
