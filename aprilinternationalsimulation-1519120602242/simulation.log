@@ -1,0 +1,230 @@
+RUN	AprilInternationalSimulation		aprilinternationalsimulation	1519120602242	 	2.0
+USER	Scénario de test	1	START	1519120602907	1519120602907
+USER	Scénario de test	2	START	1519120602968	1519120602968
+USER	Scénario de test	3	START	1519120603008	1519120603008
+USER	Scénario de test	4	START	1519120603048	1519120603048
+REQUEST	Scénario de test	1		/fr/mon-compte	1519120602955	1519120603026	KO	status.find.is(200), but actually found 401
+REQUEST	Scénario de test	2		/fr/mon-compte	1519120602968	1519120603032	KO	status.find.is(200), but actually found 401
+REQUEST	Scénario de test	3		/fr/partenaires-connectez-vous-aux-extranets-de-nos-bureaux	1519120603009	1519120603074	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	5	START	1519120603089	1519120603089
+REQUEST	Scénario de test	4		/fr/etudier-l-etranger/quand-le-cout-des-etudes-l-etranger-s-envole	1519120603049	1519120603116	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	6	START	1519120603129	1519120603129
+REQUEST	Scénario de test	5		/fr/mon-compte	1519120603089	1519120603155	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	7	START	1519120603168	1519120603168
+REQUEST	Scénario de test	6		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120603130	1519120603194	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	8	START	1519120603208	1519120603208
+REQUEST	Scénario de test	7		/fr/mon-compte	1519120603169	1519120603232	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	9	START	1519120603258	1519120603258
+REQUEST	Scénario de test	8		/fr/mon-compte	1519120603209	1519120603271	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	10	START	1519120603298	1519120603298
+REQUEST	Scénario de test	9		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120603258	1519120603323	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	11	START	1519120603338	1519120603338
+REQUEST	Scénario de test	10		/fr/etudier-l-etranger/quand-le-cout-des-etudes-l-etranger-s-envole	1519120603299	1519120603362	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	12	START	1519120603379	1519120603379
+REQUEST	Scénario de test	11		/fr/vivre-l-etranger/assurance-sante-internationale	1519120603339	1519120603403	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	13	START	1519120603418	1519120603418
+REQUEST	Scénario de test	12		/fr/vivre-l-etranger/assurance-sante-internationale	1519120603380	1519120603446	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	14	START	1519120603458	1519120603458
+REQUEST	Scénario de test	13		/fr	1519120603420	1519120603485	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	15	START	1519120603499	1519120603499
+REQUEST	Scénario de test	14		/fr/partenaires-connectez-vous-aux-extranets-de-nos-bureaux	1519120603459	1519120603526	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	16	START	1519120603538	1519120603538
+REQUEST	Scénario de test	15		/fr/mon-compte	1519120603500	1519120603566	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	17	START	1519120603578	1519120603578
+REQUEST	Scénario de test	16		/fr/partenaires-connectez-vous-aux-extranets-de-nos-bureaux	1519120603540	1519120603606	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	18	START	1519120603618	1519120603618
+REQUEST	Scénario de test	17		/fr/vivre-l-etranger/assurance-sante-internationale	1519120603579	1519120603646	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	19	START	1519120603658	1519120603658
+REQUEST	Scénario de test	18		/fr/partenaires-connectez-vous-aux-extranets-de-nos-bureaux	1519120603619	1519120603681	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	20	START	1519120603698	1519120603698
+REQUEST	Scénario de test	19		/fr/etudier-l-etranger/quand-le-cout-des-etudes-l-etranger-s-envole	1519120603658	1519120603721	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	21	START	1519120603738	1519120603738
+REQUEST	Scénario de test	20		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120603698	1519120603761	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	22	START	1519120603778	1519120603778
+REQUEST	Scénario de test	21		/fr/etudier-l-etranger/quand-le-cout-des-etudes-l-etranger-s-envole	1519120603738	1519120603801	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	23	START	1519120603818	1519120603818
+REQUEST	Scénario de test	22		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120603779	1519120603844	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	24	START	1519120603858	1519120603858
+REQUEST	Scénario de test	23		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120603819	1519120603885	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	25	START	1519120603899	1519120603899
+REQUEST	Scénario de test	24		/fr/etudier-l-etranger/quand-le-cout-des-etudes-l-etranger-s-envole	1519120603860	1519120603925	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	26	START	1519120603938	1519120603938
+REQUEST	Scénario de test	25		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120603902	1519120603969	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	27	START	1519120603978	1519120603978
+REQUEST	Scénario de test	26		/fr/mon-compte	1519120603939	1519120604005	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	28	START	1519120604018	1519120604018
+REQUEST	Scénario de test	27		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120603980	1519120604045	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	29	START	1519120604058	1519120604058
+REQUEST	Scénario de test	28		/fr/vivre-l-etranger/assurance-sante-internationale	1519120604019	1519120604088	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	30	START	1519120604098	1519120604098
+REQUEST	Scénario de test	29		/fr/mon-compte	1519120604059	1519120604132	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	31	START	1519120604138	1519120604138
+USER	Scénario de test	32	START	1519120604178	1519120604178
+REQUEST	Scénario de test	30		/fr	1519120604100	1519120604179	KO	status.find.is(200), but actually found 401
+REQUEST	Scénario de test	31		/fr	1519120604139	1519120604212	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	33	START	1519120604219	1519120604219
+REQUEST	Scénario de test	32		/fr/partenaires-connectez-vous-aux-extranets-de-nos-bureaux	1519120604179	1519120604254	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	34	START	1519120604258	1519120604258
+REQUEST	Scénario de test	33		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120604220	1519120604289	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	35	START	1519120604298	1519120604298
+REQUEST	Scénario de test	34		/fr	1519120604259	1519120604331	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	36	START	1519120604338	1519120604338
+REQUEST	Scénario de test	35		/fr/vivre-l-etranger/assurance-sante-internationale	1519120604299	1519120604363	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	37	START	1519120604378	1519120604378
+REQUEST	Scénario de test	36		/fr/vivre-l-etranger/assurance-sante-internationale	1519120604339	1519120604403	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	38	START	1519120604418	1519120604418
+REQUEST	Scénario de test	37		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120604378	1519120604441	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	39	START	1519120604459	1519120604459
+REQUEST	Scénario de test	38		/fr/mon-compte	1519120604418	1519120604481	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	40	START	1519120604498	1519120604498
+REQUEST	Scénario de test	39		/fr/etudier-l-etranger/quand-le-cout-des-etudes-l-etranger-s-envole	1519120604459	1519120604521	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	41	START	1519120604538	1519120604538
+REQUEST	Scénario de test	40		/fr/vivre-l-etranger/assurance-sante-internationale	1519120604498	1519120604563	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	42	START	1519120604578	1519120604578
+REQUEST	Scénario de test	41		/fr	1519120604538	1519120604604	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	43	START	1519120604618	1519120604618
+REQUEST	Scénario de test	42		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120604580	1519120604646	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	44	START	1519120604658	1519120604658
+REQUEST	Scénario de test	43		/fr	1519120604619	1519120604685	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	45	START	1519120604699	1519120604699
+REQUEST	Scénario de test	44		/fr	1519120604659	1519120604724	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	46	START	1519120604738	1519120604738
+REQUEST	Scénario de test	45		/fr	1519120604700	1519120604766	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	47	START	1519120604778	1519120604778
+REQUEST	Scénario de test	46		/fr/etudier-l-etranger/quand-le-cout-des-etudes-l-etranger-s-envole	1519120604740	1519120604804	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	48	START	1519120604818	1519120604818
+REQUEST	Scénario de test	47		/fr	1519120604780	1519120604845	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	49	START	1519120604858	1519120604858
+REQUEST	Scénario de test	48		/fr/etudier-l-etranger/quand-le-cout-des-etudes-l-etranger-s-envole	1519120604819	1519120604884	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	50	START	1519120604898	1519120604898
+REQUEST	Scénario de test	49		/fr/etudier-l-etranger/quand-le-cout-des-etudes-l-etranger-s-envole	1519120604860	1519120604924	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	51	START	1519120604938	1519120604938
+USER	Scénario de test	52	START	1519120604958	1519120604958
+REQUEST	Scénario de test	50		/fr/vivre-l-etranger/assurance-sante-internationale	1519120604899	1519120604965	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	53	START	1519120604998	1519120604998
+REQUEST	Scénario de test	51		/fr/etudier-l-etranger/quand-le-cout-des-etudes-l-etranger-s-envole	1519120604939	1519120605004	KO	status.find.is(200), but actually found 401
+REQUEST	Scénario de test	52		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120604960	1519120605024	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	54	START	1519120605039	1519120605039
+REQUEST	Scénario de test	53		/fr/etudier-l-etranger/quand-le-cout-des-etudes-l-etranger-s-envole	1519120604999	1519120605065	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	55	START	1519120605078	1519120605078
+REQUEST	Scénario de test	54		/fr/partenaires-connectez-vous-aux-extranets-de-nos-bureaux	1519120605040	1519120605105	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	56	START	1519120605118	1519120605118
+REQUEST	Scénario de test	55		/fr/etudier-l-etranger/quand-le-cout-des-etudes-l-etranger-s-envole	1519120605079	1519120605143	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	57	START	1519120605158	1519120605158
+REQUEST	Scénario de test	56		/fr/etudier-l-etranger/quand-le-cout-des-etudes-l-etranger-s-envole	1519120605119	1519120605183	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	58	START	1519120605198	1519120605198
+REQUEST	Scénario de test	57		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120605159	1519120605222	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	59	START	1519120605239	1519120605239
+REQUEST	Scénario de test	58		/fr/mon-compte	1519120605199	1519120605262	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	60	START	1519120605278	1519120605278
+REQUEST	Scénario de test	59		/fr	1519120605239	1519120605312	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	61	START	1519120605318	1519120605318
+REQUEST	Scénario de test	60		/fr/vivre-l-etranger/assurance-sante-internationale	1519120605279	1519120605351	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	62	START	1519120605358	1519120605358
+REQUEST	Scénario de test	61		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120605319	1519120605384	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	63	START	1519120605398	1519120605398
+REQUEST	Scénario de test	62		/fr/etudier-l-etranger/quand-le-cout-des-etudes-l-etranger-s-envole	1519120605360	1519120605433	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	64	START	1519120605439	1519120605439
+REQUEST	Scénario de test	63		/fr/mon-compte	1519120605399	1519120605466	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	65	START	1519120605478	1519120605478
+REQUEST	Scénario de test	64		/fr/mon-compte	1519120605440	1519120605505	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	66	START	1519120605518	1519120605518
+REQUEST	Scénario de test	65		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120605480	1519120605547	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	67	START	1519120605558	1519120605558
+REQUEST	Scénario de test	66		/fr/vivre-l-etranger/assurance-sante-internationale	1519120605519	1519120605583	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	68	START	1519120605598	1519120605598
+REQUEST	Scénario de test	67		/fr/vivre-l-etranger/assurance-sante-internationale	1519120605559	1519120605624	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	69	START	1519120605639	1519120605639
+REQUEST	Scénario de test	68		/fr/partenaires-connectez-vous-aux-extranets-de-nos-bureaux	1519120605600	1519120605670	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	70	START	1519120605688	1519120605688
+REQUEST	Scénario de test	69		/fr	1519120605640	1519120605704	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	71	START	1519120605728	1519120605728
+REQUEST	Scénario de test	70		/fr/mon-compte	1519120605689	1519120605754	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	72	START	1519120605769	1519120605769
+REQUEST	Scénario de test	71		/fr/etudier-l-etranger/quand-le-cout-des-etudes-l-etranger-s-envole	1519120605729	1519120605793	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	73	START	1519120605808	1519120605808
+REQUEST	Scénario de test	72		/fr	1519120605770	1519120605834	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	74	START	1519120605848	1519120605848
+REQUEST	Scénario de test	73		/fr/vivre-l-etranger/assurance-sante-internationale	1519120605809	1519120605874	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	75	START	1519120605888	1519120605888
+REQUEST	Scénario de test	74		/fr/etudier-l-etranger/quand-le-cout-des-etudes-l-etranger-s-envole	1519120605849	1519120605914	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	76	START	1519120605928	1519120605928
+REQUEST	Scénario de test	75		/fr/mon-compte	1519120605890	1519120605954	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	77	START	1519120605958	1519120605958
+REQUEST	Scénario de test	76		/fr/etudier-l-etranger/quand-le-cout-des-etudes-l-etranger-s-envole	1519120605929	1519120605993	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	78	START	1519120605998	1519120605998
+REQUEST	Scénario de test	77		/fr/vivre-l-etranger/assurance-sante-internationale	1519120605959	1519120606023	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	79	START	1519120606038	1519120606038
+REQUEST	Scénario de test	78		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120605999	1519120606062	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	80	START	1519120606078	1519120606078
+REQUEST	Scénario de test	79		/fr/etudier-l-etranger/quand-le-cout-des-etudes-l-etranger-s-envole	1519120606038	1519120606101	KO	status.find.is(200), but actually found 401
+REQUEST	Scénario de test	2		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120606049	1519120606113	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	81	START	1519120606118	1519120606118
+REQUEST	Scénario de test	1		/fr/mon-compte	1519120606059	1519120606122	KO	status.find.is(200), but actually found 401
+REQUEST	Scénario de test	80		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120606079	1519120606143	KO	status.find.is(200), but actually found 401
+REQUEST	Scénario de test	3		/fr	1519120606089	1519120606153	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	82	START	1519120606158	1519120606158
+REQUEST	Scénario de test	81		/fr/mon-compte	1519120606120	1519120606187	KO	status.find.is(200), but actually found 401
+REQUEST	Scénario de test	4		/fr/vivre-l-etranger/assurance-sante-internationale	1519120606129	1519120606194	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	83	START	1519120606198	1519120606198
+REQUEST	Scénario de test	82		/fr	1519120606158	1519120606221	KO	status.find.is(200), but actually found 401
+REQUEST	Scénario de test	5		/fr/mon-compte	1519120606168	1519120606231	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	84	START	1519120606238	1519120606238
+REQUEST	Scénario de test	83		/fr	1519120606199	1519120606269	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	85	START	1519120606278	1519120606278
+REQUEST	Scénario de test	84		/fr/vivre-l-etranger/assurance-sante-internationale	1519120606238	1519120606309	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	86	START	1519120606318	1519120606318
+REQUEST	Scénario de test	7		/fr/partenaires-connectez-vous-aux-extranets-de-nos-bureaux	1519120606248	1519120606319	KO	status.find.is(200), but actually found 401
+REQUEST	Scénario de test	85		/fr/vivre-l-etranger/assurance-sante-internationale	1519120606279	1519120606341	KO	status.find.is(200), but actually found 401
+REQUEST	Scénario de test	8		/fr/etudier-l-etranger/quand-le-cout-des-etudes-l-etranger-s-envole	1519120606289	1519120606352	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	87	START	1519120606358	1519120606358
+REQUEST	Scénario de test	86		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120606318	1519120606382	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	88	START	1519120606398	1519120606398
+REQUEST	Scénario de test	9		/fr	1519120606339	1519120606402	KO	status.find.is(200), but actually found 401
+REQUEST	Scénario de test	87		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120606359	1519120606422	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	89	START	1519120606438	1519120606438
+REQUEST	Scénario de test	10		/fr/vivre-l-etranger/assurance-sante-internationale	1519120606378	1519120606441	KO	status.find.is(200), but actually found 401
+REQUEST	Scénario de test	88		/fr/mon-compte	1519120606399	1519120606461	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	90	START	1519120606478	1519120606478
+REQUEST	Scénario de test	11		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120606419	1519120606481	KO	status.find.is(200), but actually found 401
+REQUEST	Scénario de test	89		/fr	1519120606438	1519120606500	KO	status.find.is(200), but actually found 401
+REQUEST	Scénario de test	6		/fr/mon-compte	1519120606209	1519120606503	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	91	START	1519120606518	1519120606518
+REQUEST	Scénario de test	12		/fr/etudier-l-etranger/quand-le-cout-des-etudes-l-etranger-s-envole	1519120606468	1519120606530	KO	status.find.is(200), but actually found 401
+REQUEST	Scénario de test	90		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120606479	1519120606541	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	92	START	1519120606558	1519120606558
+REQUEST	Scénario de test	13		/fr/vivre-l-etranger/assurance-sante-internationale	1519120606499	1519120606568	KO	status.find.is(200), but actually found 401
+REQUEST	Scénario de test	91		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120606518	1519120606585	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	93	START	1519120606598	1519120606598
+REQUEST	Scénario de test	14		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120606548	1519120606616	KO	status.find.is(200), but actually found 401
+REQUEST	Scénario de test	92		/fr	1519120606559	1519120606623	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	94	START	1519120606638	1519120606638
+REQUEST	Scénario de test	15		/fr/vivre-l-etranger/assurance-sante-internationale	1519120606588	1519120606653	KO	status.find.is(200), but actually found 401
+REQUEST	Scénario de test	93		/fr/vivre-l-etranger/assurance-sante-internationale	1519120606599	1519120606662	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	95	START	1519120606678	1519120606678
+REQUEST	Scénario de test	16		/fr/vivre-l-etranger/assurance-sante-internationale	1519120606619	1519120606683	KO	status.find.is(200), but actually found 401
+REQUEST	Scénario de test	94		/fr/mon-compte	1519120606639	1519120606702	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	96	START	1519120606718	1519120606718
+REQUEST	Scénario de test	17		/fr/partenaires-connectez-vous-aux-extranets-de-nos-bureaux	1519120606659	1519120606722	KO	status.find.is(200), but actually found 401
+REQUEST	Scénario de test	95		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120606680	1519120606744	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	97	START	1519120606758	1519120606758
+REQUEST	Scénario de test	18		/fr/partenaires-connectez-vous-aux-extranets-de-nos-bureaux	1519120606698	1519120606761	KO	status.find.is(200), but actually found 401
+REQUEST	Scénario de test	96		/fr/etudier-l-etranger/quand-le-cout-des-etudes-l-etranger-s-envole	1519120606718	1519120606781	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	98	START	1519120606798	1519120606798
+REQUEST	Scénario de test	19		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120606739	1519120606800	KO	status.find.is(200), but actually found 401
+REQUEST	Scénario de test	97		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120606759	1519120606821	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	99	START	1519120606839	1519120606839
+REQUEST	Scénario de test	20		/fr/mon-compte	1519120606778	1519120606841	KO	status.find.is(200), but actually found 401
+REQUEST	Scénario de test	98		/fr/vivre-l-etranger/assurance-sante-internationale	1519120606798	1519120606861	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	100	START	1519120606878	1519120606878
+REQUEST	Scénario de test	21		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120606819	1519120606881	KO	status.find.is(200), but actually found 401
+REQUEST	Scénario de test	99		/fr/partenaires-connectez-vous-aux-extranets-de-nos-bureaux	1519120606839	1519120606902	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	101	START	1519120606918	1519120606918
+REQUEST	Scénario de test	22		/fr	1519120606858	1519120606922	KO	status.find.is(200), but actually found 401
+REQUEST	Scénario de test	100		/fr	1519120606879	1519120606943	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	102	START	1519120606958	1519120606958
+REQUEST	Scénario de test	23		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120606899	1519120606964	KO	status.find.is(200), but actually found 401
+REQUEST	Scénario de test	101		/fr/etudier-l-etranger/quand-le-cout-des-etudes-l-etranger-s-envole	1519120606919	1519120606983	KO	status.find.is(200), but actually found 401
+USER	Scénario de test	103	START	1519120606998	1519120606998
+REQUEST	Scénario de test	24		/fr/vivre-l-etranger/assurance-sante-internationale	1519120606939	1519120607004	KO	status.find.is(200), but actually found 401
+REQUEST	Scénario de test	102		/fr/les-bourses-fullbright-pour-etudier-aux-etats-unis	1519120606959	1519120607024	KO	status.find.is(200), but actually found 401
