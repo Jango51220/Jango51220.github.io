@@ -1,0 +1,10 @@
+{
+  "simulation": "AprilInternationalSimulation",
+  "simulationId": "aprilinternationalsimulation",
+  "start": 1519204829068,
+  "description": "",
+  "scenarios": ["Scénario de test"],
+  "assertions": [
+
+  ]
+}
